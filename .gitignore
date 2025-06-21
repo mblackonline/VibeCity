@@ -11,3 +11,4 @@ venv/
 main_copy.py
 main-old.py
 Event_Data.xlsx
+.~lock.Event_Data.xlsx#
