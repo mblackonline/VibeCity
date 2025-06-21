@@ -1,0 +1,13 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+
+# VS Code settings
+.vscode/
+
+main_copy.py
+main-old.py
+Event_Data.xlsx
